@@ -1,0 +1,26 @@
+{
+  "centro": {
+    "nome": "Curtarolo",
+    "lat": 45.5197,
+    "lon": 11.8336
+  },
+  "minuti_dato_vecchio": 60,
+  "stazioni": [
+    { "id": "vnt329", "nome": "Campodarsego",                       "comune": "Campodarsego",               "lat": 45.49483, "lon": 11.91370 },
+    { "id": "vnt406", "nome": "Padova - Montà",                     "comune": "Padova",                     "lat": 45.42911, "lon": 11.84558 },
+    { "id": "vnt191", "nome": "Mestrino",                           "comune": "Mestrino",                   "lat": 45.44556, "lon": 11.75541 },
+    { "id": "vnt356", "nome": "Via Caltana ovest",                  "comune": "Villanova di Camposampiero", "lat": 45.49080, "lon": 11.96139 },
+    { "id": "vnt706", "nome": "Arcella Via Ticino (CSO Pedro)",     "comune": "Padova",                     "lat": 45.42398, "lon": 11.87082 },
+    { "id": "vnt675", "nome": "Caselle",                            "comune": "Selvazzano Dentro",          "lat": 45.41666, "lon": 11.81495 },
+    { "id": "vnt654", "nome": "Arcella - Curiel",                   "comune": "Padova",                     "lat": 45.42226, "lon": 11.89480 },
+    { "id": "vnt680", "nome": "Centro \"Teatro Verdi\"",            "comune": "Padova",                     "lat": 45.41072, "lon": 11.87227 },
+    { "id": "vnt655", "nome": "Palestro - Montecengio",             "comune": "Padova",                     "lat": 45.40807, "lon": 11.85807 },
+    { "id": "vnt641", "nome": "Rustega",                            "comune": "Camposampiero",              "lat": 45.56981, "lon": 11.97865 },
+    { "id": "vnt470", "nome": "Portello (Dipartimento ICEA)",       "comune": "Padova",                     "lat": 45.41008, "lon": 11.88894 },
+    { "id": "vnt080", "nome": "Santa Maria di Sala",                "comune": "Santa Maria di Sala",        "lat": 45.51600, "lon": 12.00219 },
+    { "id": "vnt719", "nome": "Portello",                           "comune": "Padova",                     "lat": 45.40836, "lon": 11.89472 },
+    { "id": "vnt216", "nome": "Tombolo",                            "comune": "Tombolo",                    "lat": 45.64009, "lon": 11.83511 },
+    { "id": "vnt657", "nome": "Basso Isonzo \"Arakè\"",             "comune": "Padova",                     "lat": 45.38978, "lon": 11.84982 },
+    { "id": "vnt707", "nome": "Santa Croce - Cinema Lux",           "comune": "Padova",                     "lat": 45.39097, "lon": 11.87066 }
+  ]
+}

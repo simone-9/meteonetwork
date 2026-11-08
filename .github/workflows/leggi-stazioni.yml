@@ -1,0 +1,44 @@
+name: Lettura stazioni MeteoNetwork
+
+on:
+  schedule:
+    # ogni 15 minuti (orari UTC; GitHub può ritardare le esecuzioni di qualche minuto)
+    - cron: "4,19,34,49 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leggi-stazioni
+  cancel-in-progress: false
+
+jobs:
+  leggi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Leggi le stazioni
+        run: python scripts/leggi_stazioni.py
+
+      - name: Salva i dati nel repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nessun dato nuovo."
+            exit 0
+          fi
+          git commit -m "Dati stazioni $(date -u +'%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            git pull --rebase --quiet && git push && exit 0
+            sleep 5
+          done
+          exit 1
