@@ -35,6 +35,9 @@ USER_AGENT = "Mozilla/5.0 (compatible; lettore-stazioni-meteonetwork/1.0)"
 FUSO = ZoneInfo("Europe/Rome")
 PAUSA_TRA_RICHIESTE = 1.5  # secondi, per non sovraccaricare il sito
 
+# Sensori di cui segnalare il "Non a norma" (radiazione solare/UV esclusi: quasi nessuna stazione li ha)
+SENSORI_CONTROLLATI = {"Temperatura", "Umidità", "Pressione", "Pioggia", "Vento", "Temp. di rugiada"}
+
 NUM = r"(-?\d+(?:\.\d+)?|-{2,3})"  # un numero oppure "--" / "---" (sensore assente)
 
 COLONNE_STORICO = [
@@ -128,8 +131,9 @@ def leggi_stazione(id_stazione):
     for riquadro in senza_commenti.split('class="col-lg shadow-sm')[1:]:
         if "Non a norma" in riquadro:
             titolo = re.search(r'class="c_head[^"]*"[^>]*>\s*(?:<span[\s\S]*?</span>\s*)?([^<]+?)\s*(?:<br|</span)', riquadro)
-            if titolo:
-                non_a_norma.append(html.unescape(titolo.group(1)).strip())
+            nome = html.unescape(titolo.group(1)).strip() if titolo else ""
+            if nome in SENSORI_CONTROLLATI:
+                non_a_norma.append(nome)
 
     pressione = [numero(x) for x in p] if p else [None, None, None]
     if pressione[0] is not None and pressione[0] < 800:  # 0 hPa = barometro assente
