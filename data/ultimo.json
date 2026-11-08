@@ -1,0 +1,711 @@
+{
+  "aggiornato_utc": "2026-11-08T10:05:27Z",
+  "aggiornato_locale": "08/11/2026 11:05",
+  "centro": {
+    "nome": "Curtarolo",
+    "lat": 45.5197,
+    "lon": 11.8336
+  },
+  "fonte": "MeteoNetwork (www.meteonetwork.eu) - licenza CC-BY 4.0",
+  "stazioni_lette": 16,
+  "stazioni_in_errore": 0,
+  "stazioni": [
+    {
+      "id": "vnt329",
+      "nome": "Campodarsego",
+      "comune": "Campodarsego",
+      "lat": 45.49483,
+      "lon": 11.9137,
+      "distanza_km": 6.8,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt329-stazione-meteorologica-di-campodarsego",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T09:30:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 10:30",
+      "temperatura": {
+        "attuale": 11.0,
+        "max": 11.0,
+        "min": 7.2
+      },
+      "umidita": {
+        "attuale": 64.0,
+        "max": 92.0,
+        "min": 64.0
+      },
+      "pressione": {
+        "attuale": null,
+        "max": null,
+        "min": null
+      },
+      "rugiada": null,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": null
+      },
+      "vento": {
+        "velocita_kmh": 4.0,
+        "direzione": "ENE",
+        "raffica_kmh": null,
+        "media_kmh": 2.1
+      },
+      "sensori_non_a_norma": [
+        "Pressione",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt406",
+      "nome": "Padova - Montà",
+      "comune": "Padova",
+      "lat": 45.42911,
+      "lon": 11.84558,
+      "distanza_km": 10.1,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt406-stazione-meteorologica-di-padova-monta",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:00:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:00",
+      "temperatura": {
+        "attuale": 11.4,
+        "max": 11.3,
+        "min": 7.6
+      },
+      "umidita": {
+        "attuale": 71.0,
+        "max": 93.0,
+        "min": 72.0
+      },
+      "pressione": {
+        "attuale": 1026.4,
+        "max": 1026.4,
+        "min": 1025.0
+      },
+      "rugiada": 6.3,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 1.4,
+        "direzione": "WNW",
+        "raffica_kmh": 6.5,
+        "media_kmh": 0.1
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt191",
+      "nome": "Mestrino",
+      "comune": "Mestrino",
+      "lat": 45.44556,
+      "lon": 11.75541,
+      "distanza_km": 10.3,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt191-stazione-meteorologica-di-mestrino",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T09:56:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 10:56",
+      "temperatura": {
+        "attuale": 10.9,
+        "max": 10.9,
+        "min": 7.6
+      },
+      "umidita": {
+        "attuale": 73.0,
+        "max": 91.0,
+        "min": 73.0
+      },
+      "pressione": {
+        "attuale": 1027.6,
+        "max": 1027.6,
+        "min": 1026.1
+      },
+      "rugiada": 6.3,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": null,
+        "raffica_kmh": 6.4,
+        "media_kmh": 0.1
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt356",
+      "nome": "Via Caltana ovest",
+      "comune": "Villanova di Camposampiero",
+      "lat": 45.4908,
+      "lon": 11.96139,
+      "distanza_km": 10.5,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt356-stazione-meteorologica-di-via-caltana-ovest",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T09:50:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 10:50",
+      "temperatura": {
+        "attuale": 11.2,
+        "max": 11.2,
+        "min": 7.4
+      },
+      "umidita": {
+        "attuale": 76.0,
+        "max": 92.0,
+        "min": 75.0
+      },
+      "pressione": {
+        "attuale": 1025.7,
+        "max": 1025.8,
+        "min": 1024.3
+      },
+      "rugiada": 7.1,
+      "pioggia": {
+        "oggi_mm": 0.2,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "N",
+        "raffica_kmh": 6.4,
+        "media_kmh": 0.4
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt706",
+      "nome": "Arcella Via Ticino (CSO Pedro)",
+      "comune": "Padova",
+      "lat": 45.42398,
+      "lon": 11.87082,
+      "distanza_km": 11.0,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt706-stazione-meteorologica-di-arcella-via-ticino-cso-pedro",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:01:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:01",
+      "temperatura": {
+        "attuale": 11.5,
+        "max": 11.4,
+        "min": 7.2
+      },
+      "umidita": {
+        "attuale": 62.0,
+        "max": 89.0,
+        "min": 62.0
+      },
+      "pressione": {
+        "attuale": 1026.7,
+        "max": 1026.7,
+        "min": 1025.1
+      },
+      "rugiada": 4.4,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "E",
+        "raffica_kmh": 4.8,
+        "media_kmh": 0.2
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt675",
+      "nome": "Caselle",
+      "comune": "Selvazzano Dentro",
+      "lat": 45.41666,
+      "lon": 11.81495,
+      "distanza_km": 11.5,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt675-stazione-meteorologica-di-caselle",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:04:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:04",
+      "temperatura": {
+        "attuale": 11.2,
+        "max": 11.2,
+        "min": 7.7
+      },
+      "umidita": {
+        "attuale": 72.0,
+        "max": 91.0,
+        "min": 72.0
+      },
+      "pressione": {
+        "attuale": 1025.3,
+        "max": 1025.5,
+        "min": 1024.0
+      },
+      "rugiada": 6.1,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 1.6,
+        "direzione": "NE",
+        "raffica_kmh": 4.8,
+        "media_kmh": 0.6
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt654",
+      "nome": "Arcella - Curiel",
+      "comune": "Padova",
+      "lat": 45.42226,
+      "lon": 11.8948,
+      "distanza_km": 11.8,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt654-stazione-meteorologica-di-arcella-curiel",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:01:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:01",
+      "temperatura": {
+        "attuale": 11.2,
+        "max": 11.1,
+        "min": 8.3
+      },
+      "umidita": {
+        "attuale": 66.0,
+        "max": 85.0,
+        "min": 66.0
+      },
+      "pressione": {
+        "attuale": 1027.8,
+        "max": 1027.8,
+        "min": 1026.4
+      },
+      "rugiada": 5.2,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 1.6,
+        "direzione": "W",
+        "raffica_kmh": 8.0,
+        "media_kmh": 0.9
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt680",
+      "nome": "Centro \"Teatro Verdi\"",
+      "comune": "Padova",
+      "lat": 45.41072,
+      "lon": 11.87227,
+      "distanza_km": 12.5,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt680-stazione-meteorologica-di-centro-teatro-verdi",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T09:45:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 10:45",
+      "temperatura": {
+        "attuale": 10.6,
+        "max": 10.6,
+        "min": 8.3
+      },
+      "umidita": {
+        "attuale": 67.0,
+        "max": 85.0,
+        "min": 67.0
+      },
+      "pressione": {
+        "attuale": 1026.4,
+        "max": 1026.5,
+        "min": 1025.1
+      },
+      "rugiada": 5.0,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 3.2,
+        "direzione": "ENE",
+        "raffica_kmh": 12.9,
+        "media_kmh": 2.8
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt655",
+      "nome": "Palestro - Montecengio",
+      "comune": "Padova",
+      "lat": 45.40807,
+      "lon": 11.85807,
+      "distanza_km": 12.6,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt655-stazione-meteorologica-di-palestro-montecengio",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:00:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:00",
+      "temperatura": {
+        "attuale": 11.0,
+        "max": 10.7,
+        "min": 8.0
+      },
+      "umidita": {
+        "attuale": 68.0,
+        "max": 90.0,
+        "min": 68.0
+      },
+      "pressione": {
+        "attuale": 1024.5,
+        "max": 1024.6,
+        "min": 1023.1
+      },
+      "rugiada": 5.6,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "N",
+        "raffica_kmh": 12.9,
+        "media_kmh": 0.7
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt641",
+      "nome": "Rustega",
+      "comune": "Camposampiero",
+      "lat": 45.56981,
+      "lon": 11.97865,
+      "distanza_km": 12.6,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt641-stazione-meteorologica-di-rustega",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:01:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:01",
+      "temperatura": {
+        "attuale": 11.5,
+        "max": 11.5,
+        "min": 6.8
+      },
+      "umidita": {
+        "attuale": 73.0,
+        "max": 95.0,
+        "min": 74.0
+      },
+      "pressione": {
+        "attuale": 1026.5,
+        "max": 1026.8,
+        "min": 1025.1
+      },
+      "rugiada": 6.8,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 2.2,
+        "direzione": "E",
+        "raffica_kmh": 9.4,
+        "media_kmh": 0.6
+      },
+      "sensori_non_a_norma": [],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt470",
+      "nome": "Portello (Dipartimento ICEA)",
+      "comune": "Padova",
+      "lat": 45.41008,
+      "lon": 11.88894,
+      "distanza_km": 12.9,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt470-stazione-meteorologica-di-portello-dipartimento-icea",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:04:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:04",
+      "temperatura": {
+        "attuale": 11.5,
+        "max": 11.2,
+        "min": 8.6
+      },
+      "umidita": {
+        "attuale": 68.0,
+        "max": 83.0,
+        "min": 70.0
+      },
+      "pressione": {
+        "attuale": 1025.8,
+        "max": 1025.8,
+        "min": 1024.2
+      },
+      "rugiada": 5.6,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 4.8,
+        "direzione": "WSW",
+        "raffica_kmh": 8.0,
+        "media_kmh": 0.8
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt080",
+      "nome": "Santa Maria di Sala",
+      "comune": "Santa Maria di Sala",
+      "lat": 45.516,
+      "lon": 12.00219,
+      "distanza_km": 13.1,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt080-stazione-meteorologica-di-santa-maria-di-sala",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:00:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:00",
+      "temperatura": {
+        "attuale": 11.8,
+        "max": 11.6,
+        "min": 6.4
+      },
+      "umidita": {
+        "attuale": 77.0,
+        "max": 93.0,
+        "min": 77.0
+      },
+      "pressione": {
+        "attuale": 1024.9,
+        "max": 1025.1,
+        "min": 1023.7
+      },
+      "rugiada": 7.9,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 4.6,
+        "direzione": "E",
+        "raffica_kmh": 11.3,
+        "media_kmh": 1.5
+      },
+      "sensori_non_a_norma": [],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt719",
+      "nome": "Portello",
+      "comune": "Padova",
+      "lat": 45.40836,
+      "lon": 11.89472,
+      "distanza_km": 13.3,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt719-stazione-meteorologica-di-portello",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:01:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:01",
+      "temperatura": {
+        "attuale": 12.0,
+        "max": 12.0,
+        "min": 9.0
+      },
+      "umidita": {
+        "attuale": 66.0,
+        "max": 83.0,
+        "min": 66.0
+      },
+      "pressione": {
+        "attuale": 1026.6,
+        "max": 1026.7,
+        "min": 1025.3
+      },
+      "rugiada": 6.0,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "NE",
+        "raffica_kmh": 10.0,
+        "media_kmh": 1.6
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt216",
+      "nome": "Tombolo",
+      "comune": "Tombolo",
+      "lat": 45.64009,
+      "lon": 11.83511,
+      "distanza_km": 13.4,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt216-stazione-meteorologica-di-tombolo",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:05:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:05",
+      "temperatura": {
+        "attuale": 11.8,
+        "max": 11.5,
+        "min": 8.1
+      },
+      "umidita": {
+        "attuale": 66.0,
+        "max": 83.0,
+        "min": 68.0
+      },
+      "pressione": {
+        "attuale": 1026.6,
+        "max": 1026.9,
+        "min": 1025.4
+      },
+      "rugiada": 5.6,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "E",
+        "raffica_kmh": 9.7,
+        "media_kmh": 0.2
+      },
+      "sensori_non_a_norma": [
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt657",
+      "nome": "Basso Isonzo \"Arakè\"",
+      "comune": "Padova",
+      "lat": 45.38978,
+      "lon": 11.84982,
+      "distanza_km": 14.5,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt657-stazione-meteorologica-di-basso-isonzo-arake",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T09:45:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 10:45",
+      "temperatura": {
+        "attuale": 11.2,
+        "max": 11.2,
+        "min": 6.6
+      },
+      "umidita": {
+        "attuale": 74.0,
+        "max": 94.0,
+        "min": 74.0
+      },
+      "pressione": {
+        "attuale": 1026.6,
+        "max": 1026.6,
+        "min": 1025.3
+      },
+      "rugiada": 6.7,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "NE",
+        "raffica_kmh": 6.4,
+        "media_kmh": 0.1
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    },
+    {
+      "id": "vnt707",
+      "nome": "Santa Croce - Cinema Lux",
+      "comune": "Padova",
+      "lat": 45.39097,
+      "lon": 11.87066,
+      "distanza_km": 14.6,
+      "url": "https://www.meteonetwork.eu/it/weather-station/vnt707-stazione-meteorologica-di-santa-croce-cinema-lux",
+      "online": true,
+      "ultimo_rilevamento_utc": "2026-11-08T10:00:00Z",
+      "ultimo_rilevamento_locale": "08/11/2026 11:00",
+      "temperatura": {
+        "attuale": 11.3,
+        "max": 11.0,
+        "min": 8.2
+      },
+      "umidita": {
+        "attuale": 63.0,
+        "max": 85.0,
+        "min": 64.0
+      },
+      "pressione": {
+        "attuale": 1025.6,
+        "max": 1025.6,
+        "min": 1023.9
+      },
+      "rugiada": 4.4,
+      "pioggia": {
+        "oggi_mm": 0.0,
+        "intensita_mm_h": 0.0,
+        "intensita_max_oggi_mm_h": 0.0
+      },
+      "vento": {
+        "velocita_kmh": 0.0,
+        "direzione": "NNE",
+        "raffica_kmh": 8.0,
+        "media_kmh": 1.6
+      },
+      "sensori_non_a_norma": [
+        "Radiazione solare",
+        "Radiazione UV"
+      ],
+      "dato_recente": true
+    }
+  ]
+}
