@@ -1,6 +1,6 @@
 {
-  "aggiornato_utc": "2026-11-10T00:50:39Z",
-  "aggiornato_locale": "10/11/2026 01:50",
+  "aggiornato_utc": "2026-11-10T08:19:56Z",
+  "aggiornato_locale": "10/11/2026 09:19",
   "centro": {
     "nome": "Curtarolo",
     "lat": 45.5197,
@@ -19,11 +19,11 @@
       "distanza_km": 6.8,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt329-stazione-meteorologica-di-campodarsego",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:00:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:00",
+      "ultimo_rilevamento_utc": "2026-11-10T07:30:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 08:30",
       "temperatura": {
-        "attuale": 8.7,
-        "max": 8.7,
+        "attuale": 8.9,
+        "max": 8.9,
         "min": 8.6
       },
       "umidita": {
@@ -38,15 +38,15 @@
       },
       "rugiada": null,
       "pioggia": {
-        "oggi_mm": 0.2,
+        "oggi_mm": 2.6,
         "intensita_mm_h": 0.0,
         "intensita_max_oggi_mm_h": null
       },
       "vento": {
-        "velocita_kmh": 1.8,
-        "direzione": "WNW",
+        "velocita_kmh": 0.0,
+        "direzione": "NNE",
         "raffica_kmh": null,
-        "media_kmh": 2.6
+        "media_kmh": 2.4
       },
       "sensori_non_a_norma": [
         "Pressione"
@@ -62,34 +62,34 @@
       "distanza_km": 10.1,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt406-stazione-meteorologica-di-padova-monta",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:44:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:44",
+      "ultimo_rilevamento_utc": "2026-11-10T08:12:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:12",
       "temperatura": {
-        "attuale": 8.4,
-        "max": 8.5,
+        "attuale": 8.9,
+        "max": 8.9,
         "min": 8.4
       },
       "umidita": {
-        "attuale": 98.0,
-        "max": 98.0,
+        "attuale": 99.0,
+        "max": 99.0,
         "min": 98.0
       },
       "pressione": {
-        "attuale": 1019.4,
+        "attuale": 1015.6,
         "max": 1019.6,
-        "min": 1019.4
+        "min": 1015.6
       },
-      "rugiada": 8.1,
+      "rugiada": 8.8,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 3.2,
+        "intensita_mm_h": 6.6,
+        "intensita_max_oggi_mm_h": 6.6
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "W",
-        "raffica_kmh": 3.2,
-        "media_kmh": 0.2
+        "direzione": "NW",
+        "raffica_kmh": 4.8,
+        "media_kmh": 0.3
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -103,26 +103,26 @@
       "distanza_km": 10.3,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt191-stazione-meteorologica-di-mestrino",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:46:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:46",
+      "ultimo_rilevamento_utc": "2026-11-10T08:16:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:16",
       "temperatura": {
-        "attuale": 8.5,
-        "max": 8.5,
+        "attuale": 9.0,
+        "max": 8.9,
         "min": 8.4
       },
       "umidita": {
-        "attuale": 95.0,
-        "max": 95.0,
+        "attuale": 96.0,
+        "max": 96.0,
         "min": 95.0
       },
       "pressione": {
-        "attuale": 1020.3,
+        "attuale": 1016.5,
         "max": 1020.7,
-        "min": 1020.3
+        "min": 1016.5
       },
-      "rugiada": 7.7,
+      "rugiada": 8.4,
       "pioggia": {
-        "oggi_mm": 0.4,
+        "oggi_mm": 2.8,
         "intensita_mm_h": 0.0,
         "intensita_max_oggi_mm_h": 0.0
       },
@@ -130,7 +130,7 @@
         "velocita_kmh": 0.0,
         "direzione": null,
         "raffica_kmh": 4.8,
-        "media_kmh": 0.1
+        "media_kmh": 0.0
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -144,34 +144,34 @@
       "distanza_km": 10.5,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt356-stazione-meteorologica-di-via-caltana-ovest",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:35:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:35",
+      "ultimo_rilevamento_utc": "2026-11-10T08:10:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:10",
       "temperatura": {
-        "attuale": 8.7,
-        "max": 8.7,
+        "attuale": 8.8,
+        "max": 8.8,
         "min": 8.5
       },
       "umidita": {
-        "attuale": 98.0,
-        "max": 98.0,
+        "attuale": 99.0,
+        "max": 99.0,
         "min": 98.0
       },
       "pressione": {
-        "attuale": 1018.7,
+        "attuale": 1014.9,
         "max": 1019.0,
-        "min": 1018.5
+        "min": 1014.9
       },
-      "rugiada": 8.4,
+      "rugiada": 8.6,
       "pioggia": {
-        "oggi_mm": 0.2,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 3.2,
+        "intensita_mm_h": 0.8,
+        "intensita_max_oggi_mm_h": 0.8
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "NNE",
+        "direzione": null,
         "raffica_kmh": 4.8,
-        "media_kmh": 0.3
+        "media_kmh": 0.1
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -185,32 +185,32 @@
       "distanza_km": 11.0,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt706-stazione-meteorologica-di-arcella-via-ticino-cso-pedro",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:17:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:17",
       "temperatura": {
-        "attuale": 8.4,
-        "max": 8.4,
+        "attuale": 8.9,
+        "max": 8.8,
         "min": 8.3
       },
       "umidita": {
-        "attuale": 95.0,
-        "max": 95.0,
+        "attuale": 96.0,
+        "max": 96.0,
         "min": 95.0
       },
       "pressione": {
-        "attuale": 1019.3,
+        "attuale": 1015.4,
         "max": 1019.5,
-        "min": 1019.2
+        "min": 1015.4
       },
-      "rugiada": 7.8,
+      "rugiada": 8.3,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 3.6,
+        "intensita_mm_h": 3.8,
+        "intensita_max_oggi_mm_h": 3.8
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "NW",
+        "direzione": "NNW",
         "raffica_kmh": 4.8,
         "media_kmh": 0.1
       },
@@ -226,34 +226,34 @@
       "distanza_km": 11.5,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt675-stazione-meteorologica-di-caselle",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:48:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:48",
+      "ultimo_rilevamento_utc": "2026-11-10T08:12:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:12",
       "temperatura": {
-        "attuale": 8.5,
-        "max": 8.5,
+        "attuale": 9.1,
+        "max": 9.1,
         "min": 8.4
       },
       "umidita": {
-        "attuale": 96.0,
+        "attuale": 97.0,
         "max": 96.0,
         "min": 96.0
       },
       "pressione": {
-        "attuale": 1018.2,
+        "attuale": 1014.4,
         "max": 1018.5,
-        "min": 1018.2
+        "min": 1014.4
       },
-      "rugiada": 7.8,
+      "rugiada": 8.9,
       "pioggia": {
-        "oggi_mm": 0.2,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 2.6,
+        "intensita_mm_h": 2.2,
+        "intensita_max_oggi_mm_h": 2.2
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "NNW",
+        "direzione": "W",
         "raffica_kmh": 4.8,
-        "media_kmh": 0.9
+        "media_kmh": 0.6
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -267,11 +267,11 @@
       "distanza_km": 11.8,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt654-stazione-meteorologica-di-arcella-curiel",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:17:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:17",
       "temperatura": {
-        "attuale": 8.6,
-        "max": 8.6,
+        "attuale": 9.0,
+        "max": 8.9,
         "min": 8.4
       },
       "umidita": {
@@ -280,21 +280,21 @@
         "min": 95.0
       },
       "pressione": {
-        "attuale": 1020.9,
+        "attuale": 1017.0,
         "max": 1021.2,
-        "min": 1020.9
+        "min": 1017.0
       },
-      "rugiada": 7.9,
+      "rugiada": 8.5,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.2,
-        "intensita_max_oggi_mm_h": 0.2
+        "oggi_mm": 2.8,
+        "intensita_mm_h": 1.8,
+        "intensita_max_oggi_mm_h": 1.8
       },
       "vento": {
-        "velocita_kmh": 1.6,
-        "direzione": "WNW",
+        "velocita_kmh": 3.2,
+        "direzione": "NNW",
         "raffica_kmh": 6.4,
-        "media_kmh": 1.4
+        "media_kmh": 1.1
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -308,11 +308,11 @@
       "distanza_km": 12.5,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt680-stazione-meteorologica-di-centro-teatro-verdi",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:30:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:30",
+      "ultimo_rilevamento_utc": "2026-11-10T08:15:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:15",
       "temperatura": {
-        "attuale": 8.4,
-        "max": 8.4,
+        "attuale": 9.1,
+        "max": 9.1,
         "min": 8.3
       },
       "umidita": {
@@ -321,21 +321,21 @@
         "min": 94.0
       },
       "pressione": {
-        "attuale": 1019.5,
+        "attuale": 1015.3,
         "max": 1019.6,
-        "min": 1019.5
+        "min": 1015.3
       },
-      "rugiada": 7.8,
+      "rugiada": 8.3,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 3.4,
+        "intensita_mm_h": 2.4,
+        "intensita_max_oggi_mm_h": 2.4
       },
       "vento": {
-        "velocita_kmh": 4.8,
+        "velocita_kmh": 3.2,
         "direzione": "NW",
-        "raffica_kmh": 6.4,
-        "media_kmh": 3.9
+        "raffica_kmh": 8.0,
+        "media_kmh": 2.9
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -349,34 +349,34 @@
       "distanza_km": 12.6,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt655-stazione-meteorologica-di-palestro-montecengio",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:00:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:00",
       "temperatura": {
-        "attuale": 8.4,
-        "max": 8.4,
+        "attuale": 8.9,
+        "max": 8.9,
         "min": 8.3
       },
       "umidita": {
-        "attuale": 97.0,
-        "max": 97.0,
+        "attuale": 98.0,
+        "max": 98.0,
         "min": 97.0
       },
       "pressione": {
-        "attuale": 1017.4,
+        "attuale": 1013.9,
         "max": 1017.6,
-        "min": 1017.4
+        "min": 1013.9
       },
-      "rugiada": 7.8,
+      "rugiada": 8.9,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 2.8,
+        "intensita_mm_h": 0.8,
+        "intensita_max_oggi_mm_h": 0.8
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "NNW",
+        "direzione": "W",
         "raffica_kmh": 6.4,
-        "media_kmh": 0.2
+        "media_kmh": 0.4
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -390,11 +390,11 @@
       "distanza_km": 12.6,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt641-stazione-meteorologica-di-rustega",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:13:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:13",
       "temperatura": {
-        "attuale": 8.3,
-        "max": 8.3,
+        "attuale": 8.5,
+        "max": 8.6,
         "min": 8.2
       },
       "umidita": {
@@ -403,21 +403,21 @@
         "min": 99.0
       },
       "pressione": {
-        "attuale": 1019.3,
+        "attuale": 1015.8,
         "max": 1019.7,
-        "min": 1019.3
+        "min": 1015.7
       },
-      "rugiada": 8.2,
+      "rugiada": 8.4,
       "pioggia": {
-        "oggi_mm": 0.0,
+        "oggi_mm": 1.5,
         "intensita_mm_h": 0.0,
         "intensita_max_oggi_mm_h": 0.0
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "SE",
-        "raffica_kmh": 4.3,
-        "media_kmh": 1.0
+        "direzione": "SW",
+        "raffica_kmh": 6.5,
+        "media_kmh": 1.7
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -431,34 +431,34 @@
       "distanza_km": 12.9,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt470-stazione-meteorologica-di-portello-dipartimento-icea",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:48:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:48",
+      "ultimo_rilevamento_utc": "2026-11-10T08:16:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:16",
       "temperatura": {
-        "attuale": 8.6,
-        "max": 8.6,
+        "attuale": 9.1,
+        "max": 9.0,
         "min": 8.4
       },
       "umidita": {
         "attuale": 91.0,
-        "max": 91.0,
+        "max": 96.0,
         "min": 90.0
       },
       "pressione": {
-        "attuale": 1018.8,
+        "attuale": 1014.8,
         "max": 1019.0,
-        "min": 1018.7
+        "min": 1014.8
       },
-      "rugiada": 7.2,
+      "rugiada": 7.8,
       "pioggia": {
-        "oggi_mm": 0.6,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 7.2,
+        "intensita_mm_h": 2.0,
+        "intensita_max_oggi_mm_h": 2.0
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "NNE",
+        "direzione": "NW",
         "raffica_kmh": 6.4,
-        "media_kmh": 0.9
+        "media_kmh": 1.0
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -472,34 +472,34 @@
       "distanza_km": 13.1,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt080-stazione-meteorologica-di-santa-maria-di-sala",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:15:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:15",
       "temperatura": {
-        "attuale": 8.9,
-        "max": 8.9,
+        "attuale": 9.3,
+        "max": 9.3,
         "min": 8.8
       },
       "umidita": {
-        "attuale": 96.0,
-        "max": 96.0,
+        "attuale": 97.0,
+        "max": 97.0,
         "min": 96.0
       },
       "pressione": {
-        "attuale": 1018.0,
+        "attuale": 1014.3,
         "max": 1018.4,
-        "min": 1018.0
+        "min": 1014.2
       },
-      "rugiada": 8.3,
+      "rugiada": 8.8,
       "pioggia": {
-        "oggi_mm": 0.2,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 4.0,
+        "intensita_mm_h": 0.1,
+        "intensita_max_oggi_mm_h": 0.1
       },
       "vento": {
-        "velocita_kmh": 0.2,
-        "direzione": "NW",
-        "raffica_kmh": 5.6,
-        "media_kmh": 1.0
+        "velocita_kmh": 1.1,
+        "direzione": "W",
+        "raffica_kmh": 6.5,
+        "media_kmh": 1.1
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -513,34 +513,34 @@
       "distanza_km": 13.3,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt719-stazione-meteorologica-di-portello",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:48:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:48",
+      "ultimo_rilevamento_utc": "2026-11-10T08:16:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:16",
       "temperatura": {
         "attuale": 9.0,
         "max": 9.0,
         "min": 9.0
       },
       "umidita": {
-        "attuale": 87.0,
+        "attuale": 85.0,
         "max": 87.0,
-        "min": 87.0
+        "min": 85.0
       },
       "pressione": {
-        "attuale": 1019.5,
+        "attuale": 1015.6,
         "max": 1019.8,
-        "min": 1019.5
+        "min": 1015.6
       },
       "rugiada": 7.0,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 1.2,
+        "intensita_mm_h": 2.0,
+        "intensita_max_oggi_mm_h": 2.0
       },
       "vento": {
-        "velocita_kmh": 0.0,
+        "velocita_kmh": 2.0,
         "direzione": "NW",
         "raffica_kmh": 6.0,
-        "media_kmh": 0.4
+        "media_kmh": 0.3
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
@@ -554,33 +554,33 @@
       "distanza_km": 13.4,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt216-stazione-meteorologica-di-tombolo",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:49:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:49",
+      "ultimo_rilevamento_utc": "2026-11-10T08:13:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:13",
       "temperatura": {
-        "attuale": 8.7,
-        "max": 8.7,
-        "min": 8.6
+        "attuale": 8.9,
+        "max": 9.0,
+        "min": 8.5
       },
       "umidita": {
         "attuale": 92.0,
-        "max": 92.0,
+        "max": 93.0,
         "min": 92.0
       },
       "pressione": {
-        "attuale": 1019.5,
+        "attuale": 1015.9,
         "max": 1020.0,
-        "min": 1019.5
+        "min": 1015.9
       },
-      "rugiada": 7.2,
+      "rugiada": 7.8,
       "pioggia": {
-        "oggi_mm": 0.0,
+        "oggi_mm": 1.4,
         "intensita_mm_h": 0.0,
         "intensita_max_oggi_mm_h": 0.0
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "NE",
-        "raffica_kmh": 1.6,
+        "direzione": "WSW",
+        "raffica_kmh": 3.2,
         "media_kmh": 0.0
       },
       "sensori_non_a_norma": [],
@@ -595,33 +595,33 @@
       "distanza_km": 14.5,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt657-stazione-meteorologica-di-basso-isonzo-arake",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:15:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:15",
       "temperatura": {
-        "attuale": 8.4,
-        "max": 8.4,
+        "attuale": 9.1,
+        "max": 9.1,
         "min": 8.4
       },
       "umidita": {
-        "attuale": 96.0,
-        "max": 96.0,
+        "attuale": 97.0,
+        "max": 97.0,
         "min": 96.0
       },
       "pressione": {
-        "attuale": 1019.4,
+        "attuale": 1015.6,
         "max": 1019.7,
-        "min": 1019.4
+        "min": 1015.6
       },
-      "rugiada": 7.8,
+      "rugiada": 8.9,
       "pioggia": {
-        "oggi_mm": 0.6,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 3.8,
+        "intensita_mm_h": 3.4,
+        "intensita_max_oggi_mm_h": 3.4
       },
       "vento": {
         "velocita_kmh": 0.0,
         "direzione": "W",
-        "raffica_kmh": 3.2,
+        "raffica_kmh": 4.8,
         "media_kmh": 0.0
       },
       "sensori_non_a_norma": [],
@@ -636,34 +636,34 @@
       "distanza_km": 14.6,
       "url": "https://www.meteonetwork.eu/it/weather-station/vnt707-stazione-meteorologica-di-santa-croce-cinema-lux",
       "online": true,
-      "ultimo_rilevamento_utc": "2026-11-10T00:45:00Z",
-      "ultimo_rilevamento_locale": "10/11/2026 01:45",
+      "ultimo_rilevamento_utc": "2026-11-10T08:00:00Z",
+      "ultimo_rilevamento_locale": "10/11/2026 09:00",
       "temperatura": {
-        "attuale": 8.6,
-        "max": 8.8,
+        "attuale": 9.2,
+        "max": 9.2,
         "min": 8.6
       },
       "umidita": {
-        "attuale": 93.0,
-        "max": 93.0,
+        "attuale": 94.0,
+        "max": 95.0,
         "min": 93.0
       },
       "pressione": {
-        "attuale": 1018.3,
+        "attuale": 1014.8,
         "max": 1018.6,
-        "min": 1018.3
+        "min": 1014.8
       },
-      "rugiada": 7.2,
+      "rugiada": 8.3,
       "pioggia": {
-        "oggi_mm": 0.4,
-        "intensita_mm_h": 0.0,
-        "intensita_max_oggi_mm_h": 0.0
+        "oggi_mm": 3.0,
+        "intensita_mm_h": 1.8,
+        "intensita_max_oggi_mm_h": 1.8
       },
       "vento": {
         "velocita_kmh": 0.0,
-        "direzione": "WSW",
+        "direzione": "W",
         "raffica_kmh": 4.8,
-        "media_kmh": 1.1
+        "media_kmh": 1.0
       },
       "sensori_non_a_norma": [],
       "dato_recente": true
